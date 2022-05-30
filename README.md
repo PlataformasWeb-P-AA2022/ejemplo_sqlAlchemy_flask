@@ -1,6 +1,9 @@
 ## Ejemplo_SqlAlchemy Flask
 
-* Información tomada de https://www.digitalocean.com/community/tutorials/how-to-use-flask-sqlalchemy-to-interact-with-databases-in-a-flask-application
+* Generar o reusar un entorno de python que contenga las siguientes paquetes:
+  * Flask
+  * Flask-SQLAlchemy
+  * ipython
 
 * **Importante**
   * Trabajar dentro de la carpeta **proyecto01**
@@ -22,3 +25,5 @@
     ```
       flask run
     ```
+
+* Información del repositorio es basada en el siguiente tutorial: https://www.digitalocean.com/community/tutorials/how-to-use-flask-sqlalchemy-to-interact-with-databases-in-a-flask-application
