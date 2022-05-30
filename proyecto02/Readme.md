@@ -12,5 +12,5 @@
 * Desde la aplicación se podrá
   * Listar las matrículas
   * Crear nuevas matrículas
-  * Ver detalla de matrícula
+  * Ver detalle de matrícula
   * Editar nuevas matrículas
